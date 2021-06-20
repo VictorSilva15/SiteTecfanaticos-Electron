@@ -1,0 +1,15 @@
+{
+  "name": "cloneSite",
+  "version": "1.0.0",
+  "description": "Site sobre Realidade Virtual e Realidade Aumentada que tem como objetivo trazer educação de qualidade cumprindo com a ODS  4",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.2"
+  }
+}
